@@ -1,0 +1,5 @@
+reconnect eth0 Thu 09 Sep 2021 03:03:10 PM +07
+reconnect eth0 Thu 09 Sep 2021 03:06:03 PM +07
+reconnect eth0 Thu 09 Sep 2021 05:10:09 PM +07
+reconnect eth0 Thu 09 Sep 2021 05:22:04 PM +07
+reconnect eth0 Thu 09 Sep 2021 07:16:18 PM +07
