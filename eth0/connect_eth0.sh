@@ -11,7 +11,7 @@ then
  record=$read_file_eth0_carrier_changes
  if [[ $system == $record ]]
  then
-  echo "Hello" $(date) >> /home/cloud/cloud/eth0/Hello.txt
+  echo "System:Record" $(date) >> /home/cloud/cloud/eth0/SystemRecord.txt
  else
   sudo ifdown eth0
   sudo ifup eth0
